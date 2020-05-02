@@ -55,7 +55,7 @@ public class Handler {
 		
 		
 		//getUSDRate();
-		//System.out.println(getUSDRate());
+		System.out.println(getUSDRate());
 		
 		
 	}
